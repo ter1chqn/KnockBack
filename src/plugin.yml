@@ -1,0 +1,7 @@
+main: me.teri.KB
+name: KnockBack
+version: 1.0
+commands:
+  kb:
+    aliases: [knockback]
+    description: KB Set Command
